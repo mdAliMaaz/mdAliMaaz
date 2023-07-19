@@ -5,7 +5,7 @@
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a passionate, athletic, full stack software developer . My aim is to make people's lives better & easier by developing applications and websites.  Aside from that, I am a very athletic person as I regularly practice  weightlifting and Powerlifting.I also love to read lots of books
+    I am a passionate, athletic, full stack software developer . My aim is to make people's lives better & easier by developing applications and websites.  Aside from that, I am a very athletic person as I regularly practice weightlifting .I also love to read lots of books
 <br>
 <br>
 <div align="center">
