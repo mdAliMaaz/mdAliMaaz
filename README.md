@@ -53,20 +53,18 @@
   </a>    
  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+      <img  alt="C" height="50px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=2ZOaTclOqD4q&format=png"/>
   </a>
  
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-  </a>
+ 
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="GoogleCloud" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> 
+      <img  alt="GoogleCloud" height="50px" style="padding-right:10px;" src="https://img.icons8.com/?size=1x&id=u9R54eMKS8fw&format=png"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>
   <a href="https://www.graphql.com/" target="_blank" rel="noreferrer">
-      <img  alt="GraphQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
+      <img  alt="GraphQL" height="50px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=45490&format=png"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
@@ -79,8 +77,14 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
-  
- 
+ <img height="50px"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_original_wordmark_logo_icon_146547.png"/>
+ <img height="50px"  src="https://cdn.icon-icons.com/icons2/2415/PNG/96/redux_original_logo_icon_146365.png"/>
+ <img height="50px"  src="https://cdn.icon-icons.com/icons2/273/PNG/96/icon_sql_256_30046.png"/>
+ <img height="50px"  src="https://github.com/mdAliMaaz/mdAliMaaz/assets/130007307/5ac2a326-55d1-47d4-85bd-62b12f47cf4d"
+"/>
+<img height="50px" src="https://cdn.icon-icons.com/icons2/3053/PNG/96/postman_alt_macos_bigsur_icon_189814.png"/>
+<img src="https://vitejs.dev/logo-with-shadow.png" height="50px"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_tailwind_icon_130128.png" height="50px"/>
 </div>
 <br>
 <br>
