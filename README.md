@@ -10,7 +10,7 @@
 <br>
 <div align="center">
 
-[Email Me](mailto:alimaazali6@gmail.com)
+[Visit My PORTFOLIO ](https://maaz-portfolio-rust.vercel.app/)
 
 </div>
 </p>    
