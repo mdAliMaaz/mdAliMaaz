@@ -10,7 +10,7 @@
 <br>
 <div align="center">
 
-[Visit My PORTFOLIO ](https://maaz-portfolio-rust.vercel.app/)
+[Homepage](https://maaz-portfolio-rust.vercel.app/)
 
 </div>
 </p>    
